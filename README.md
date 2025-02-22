@@ -18,7 +18,7 @@
 🚀 Installation & Usage
 
     # Clone the repository
-    git clone https://github.com/yourusername/your-repo-name.git
+    https://github.com/KashifSaeed1/potfileo-landing-page.git
 
     # Open the project in your browser
     Open index.html in any browser
